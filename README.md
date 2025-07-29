@@ -33,4 +33,4 @@
 - 📚 Gosto Muito de ler;
 - 🎮 Amo jogar! 
 
- <p align="center">Feito com 💜 por AnaCCapel</p>
+ <p align="center">Feito com 💜 por Ana C. Capel</p>
