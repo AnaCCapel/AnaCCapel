@@ -1,9 +1,9 @@
 # Olá, eu sou a Ana Carolina Capel!✨
 
-## Pode me chamar de Carol
+<p> Pode me chamar de Carol <img width="20" height="12" alt="Bisexual_Pride_Flag" src="https://github.com/user-attachments/assets/896c0d3c-25c2-4c81-9ccc-984357907871" /> </p>
 
 <p>
-  👩‍💻 Desenvolvedora Front-End | 💻 Apaixonada por Tecnologia | 🌈 Adoro misturar código com criatividade  <img width="20" height="12" alt="Bisexual_Pride_Flag" src="https://github.com/user-attachments/assets/896c0d3c-25c2-4c81-9ccc-984357907871" />
+  👩‍💻 Desenvolvedora Front-End | 💻 Apaixonada por Tecnologia | 🌈 Adoro misturar código com criatividade  
 
 </p>
 
