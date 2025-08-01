@@ -5,7 +5,6 @@
 <p><img width="20" height="12" alt="Bisexual_Pride_Flag" src="https://github.com/user-attachments/assets/896c0d3c-25c2-4c81-9ccc-984357907871" /> Pode me chamar de <b>Carol</b> | You Can Call me <b>Carol</b></p>  </p>
 
 <br>
-<br>
 
 <p>
     👩‍💻 Desenvolvedora Front-End | 💻 Apaixonada por Tecnologia | 🌈 Adoro misturar código com criatividade.
