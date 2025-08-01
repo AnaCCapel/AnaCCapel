@@ -2,11 +2,12 @@
 <p><img width="20" height="12" alt="Bisexual_Pride_Flag" src="https://github.com/user-attachments/assets/896c0d3c-25c2-4c81-9ccc-984357907871" /> Pode me chamar de <b>Carol</b> | You Can Call me <b>Carol</b></p>  </p>
 
 <div align="center" width="100%">
-  <img src="(https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=28&duration=8000&pause=800&color=AA77FF&background=99DDFF00&center=true&width=440&lines=Bem-Vindo;Welcome;Bienvenido;Accueillir;%E3%81%84%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%81%84%E3%81%BE%E3%81%9B)>
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=28&duration=8000&pause=800&color=AA77FF&background=99DDFF00&center=true&width=440&lines=Bem-Vindo;Welcome;Bienvenido;Accueillir;%E3%81%84%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%81%84%E3%81%BE%E3%81%9B>
    
  <br>
     
-  <img src="[https://visit-counter.vercel.app/counter.png?page=AnaCCapel&s=40&c=9400ff&bg=00000000&no=4&ff=digi&tb=&ta=](https://visit-counter.vercel.app/counter.png?page=AnaCCapel&s=40&c=9400ff&bg=00000000&no=4&ff=digi&tb=Visits%3A+&ta=)](https://visit-counter.vercel.app/counter.png?page=AnaCCapel&s=40&c=9400ff&bg=00000000&no=4&ff=digi&tb=Visits%3A+&ta=)"/>     </div>
+  <img src="https://visit-counter.vercel.app/counter.png?page=AnaCCapel&s=40&c=9400ff&bg=00000000&no=4&ff=digi&tb=Visits%3A+&ta="/>
+  </div>
 
 <br>
 
@@ -18,7 +19,7 @@
 
 <br>
 
- <div style="display: inline_block">
+ <div>
    <a href="https://github.com/AnaCCapel">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaCCapel&theme=nightowl&show_icons=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCCapel&layout=compact&langs_count=6&theme=nightowl"/>  
@@ -47,7 +48,7 @@
 
 <br>
 
-<div align="center" width="100%" style="display: inline_block">
+<div align="center" width="100%">
 <div>
 <h3>🤓 Um pouco do meu universo:</h3> 
 - 🐱 Tenho dois gatos incríveis;
@@ -69,8 +70,8 @@
   </div>
 </div>
 
-<div align="center" width="100%>
- 
+<div align="center" width="100%">
+ <img src="https://github.com/user-attachments/assets/4be60901-da89-4034-b086-eca00c0b6581"/>
  <p align="center">Feito com 💜 por Ana C. Capel</p>
 </div>
 
