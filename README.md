@@ -1,6 +1,8 @@
-# Olá, eu sou a Ana Carolina Capel!✨
+# Olá, eu sou a Ana Carolina Capel!✨| # Hi, I'm Ana Carolina Capel!✨
 
-<p><img width="20" height="12" alt="Bisexual_Pride_Flag" src="https://github.com/user-attachments/assets/896c0d3c-25c2-4c81-9ccc-984357907871" /> Pode me chamar de Carol </p>
+<br>
+
+<p><img width="20" height="12" alt="Bisexual_Pride_Flag" src="https://github.com/user-attachments/assets/896c0d3c-25c2-4c81-9ccc-984357907871" /> Pode me chamar de Carol </p> 
 
 <p>
   👩‍💻 Desenvolvedora Front-End | 💻 Apaixonada por Tecnologia | 🌈 Adoro misturar código com criatividade  
@@ -11,7 +13,7 @@
    <a href="https://github.com/AnaCCapel">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaCCapel&theme=nightowl&show_icons=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCCapel&layout=compact&langs_count=6&theme=nightowl"/>
-   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?AnaCCapel=vn7n24fzkq&theme=nightowl"/>
+   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnaCCapel&theme=nightowl"/>
 </div>
 
 ### 🛠️ Tecnologias que uso:
