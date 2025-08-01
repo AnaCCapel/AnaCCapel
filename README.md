@@ -11,15 +11,16 @@
 
  <div>
    <a href="https://github.com/AnaCCapel">
+      <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnaCCapel&theme=nightowl"/>
+     <br>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaCCapel&theme=nightowl&show_icons=true"/>
      <br>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCCapel&layout=compact&langs_count=6&theme=nightowl"/>
-      <br>
-   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnaCCapel&theme=nightowl"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCCapel&layout=compact&langs_count=6&theme=nightowl"/>    
+  
 </div>
 
 ### 🛠️ Tecnologias que uso:
-    
+<br>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
