@@ -69,7 +69,7 @@
 
  
 <div align="center" width="100%">
- <img src="https://github.com/user-attachments/assets/4f0264c0-9538-4e21-b6c6-e6dc863f9785"/>
+ <img  width="50%" src="https://github.com/user-attachments/assets/4f0264c0-9538-4e21-b6c6-e6dc863f9785"/>
  <p align="center">Feito com 💜 por Ana C. Capel</p>
 </div>
 
