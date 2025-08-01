@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=speech&height=80&color=linear-gradient(90deg,rgba(39, 0, 93, 1) 0%, rgba(170, 119, 255, 1) 35%, rgba(201, 238, 255, 1) 100%)&text=Olá,%20eu%20sou%20a%20Ana%20Carolina%20Capel!✨%20|%20Hi,%20I'm%20Ana%20Carolina%20Capel!✨&section=header&fontSize=24&textBg=false&fontAlign=51&fontAlignY=44"/>
+<img src="https://capsule-render.vercel.app/api?type=speech&height=80&color=AA77FF&text=Olá,%20eu%20sou%20a%20Ana%20Carolina%20Capel!✨%20|%20Hi,%20I'm%20Ana%20Carolina%20Capel!✨&section=header&fontSize=24&textBg=false&fontAlign=51&fontAlignY=44&reversal=true&fontColor=FFFFFF"/>
 
 <br>
 
