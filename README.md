@@ -9,6 +9,7 @@
 
 <p>
     👩‍💻 Desenvolvedora Front-End | 💻 Apaixonada por Tecnologia | 🌈 Adoro misturar código com criatividade.
+    <br>
     👩‍💻 Front-End Developer | 💻 Passionate about Technology | 🌈 I love mixing code with creativity.
 </p>
 
