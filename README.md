@@ -19,7 +19,7 @@
 
 <br>
 
- <div align="center" style="display: inline_block">
+ <div style="display: inline_block">
    <a href="https://github.com/AnaCCapel">
    <img  width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaCCapel&theme=nightowl&show_icons=true"/>
    <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCCapel&layout=compact&langs_count=6&theme=nightowl"/>  
@@ -48,9 +48,9 @@
 
 <br>
 
-<div align="center" width="100%">  
-  <h3>🤓 Um pouco do meu universo:</h3>
-    <ul>
+  
+  <h3 align="center" width="100%">🤓 Um pouco do meu universo:</h3>
+    <ul align="center" width="100%">
       <li>🐱 Tenho dois gatos incríveis;</li>
       <li>📺 Adoro assistir filmes, series e animes;</li>
       <li>🌱 Em constante aprendizado e evolução;</li>
@@ -59,8 +59,8 @@
       <li>🎮 Amo jogar!</li>
    </ul>
   
-  <h3>🤓 A little about me:</h3>
-    <ul>
+  <h3 align="center" width="100%">🤓 A little about me:</h3>
+    <ul align="center" width="100%">
      <li>🐱 I have two amazing cats;</li>
      <li>📺 I love watching movies, series, and anime;</li>
      <li>🌱 Constantly learning and evolving;</li>
@@ -68,10 +68,10 @@
      <li>📚 I really enjoy reading;</li>
      <li>🎮 I love playing video-games!</li>
     </ul>
-</div>
+
  
 <div align="center" width="100%">
- <img src="![Free Neon Cat Animated Birthday Video Gif Instagram](https://github.com/user-attachments/assets/95886916-1591-4606-8195-6ae49e36f960)"/>
+ ![Adobe Express - gif](https://github.com/user-attachments/assets/4f0264c0-9538-4e21-b6c6-e6dc863f9785)
  <p align="center">Feito com 💜 por Ana C. Capel</p>
 </div>
 
