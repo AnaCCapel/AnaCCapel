@@ -2,7 +2,7 @@
 <p><img width="20" height="12" alt="Bisexual_Pride_Flag" src="https://github.com/user-attachments/assets/896c0d3c-25c2-4c81-9ccc-984357907871" /> Pode me chamar de <b>Carol</b> | You Can Call me <b>Carol</b></p>  </p>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=28&duration=8000&pause=800&color=AA77FF&background=99DDFF00&center=true&width=440&lines=Bem-Vindo;Welcome;Bienvenido;Accueillir;%E3%81%84%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%81%84%E3%81%BE%E3%81%9B>
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=28&duration=8000&pause=800&color=AA77FF&background=99DDFF00&center=true&width=440&lines=Bem-Vindo;Welcome;Bienvenido;Accueillir;%E3%81%84%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%81%84%E3%81%BE%E3%81%9B"/>
    
  <br>
     
@@ -19,10 +19,10 @@
 
 <br>
 
- <div>
+ <div align="center">
    <a href="https://github.com/AnaCCapel">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaCCapel&theme=nightowl&show_icons=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCCapel&layout=compact&langs_count=6&theme=nightowl"/>  
+   <img  width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaCCapel&theme=nightowl&show_icons=true"/>
+   <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCCapel&layout=compact&langs_count=6&theme=nightowl"/>  
 </div>
 
 <br>
@@ -49,24 +49,27 @@
 <br>
 
 <div align="center" width="100%">
+  
 <div>
 <h3>🤓 Um pouco do meu universo:</h3> 
-- 🐱 Tenho dois gatos incríveis;
-- 📺 Adoro assistir filmes, series e animes;
-- 🌱 Em constante aprendizado e evolução;
-- 💡 Curiosa por natureza; 
-- 📚 Gosto Muito de ler;
-- 🎮 Amo jogar!
+  - 🐱 Tenho dois gatos incríveis;
+  - 📺 Adoro assistir filmes, series e animes;
+  - 🌱 Em constante aprendizado e evolução;
+  - 💡 Curiosa por natureza;
+  - 📚 Gosto Muito de ler;
+  - 🎮 Amo jogar!
   </div>
+  
   <br>
+  
   <div>
- <h3>🤓 A little about me:</h3> 
-- 🐱 I have two incredible cats;
-- 📺 I love watching movies, series, and anime;
-- 🌱 Constantly learning and evolving;
-- 💡 Naturally curious;
-- 📚 I really enjoy reading;
-- 🎮 I love playing video-games!
+ <h3>🤓 A little about me:</h3>
+    - 🐱 I have two incredible cats;
+    - 📺 I love watching movies, series, and anime;
+    - 🌱 Constantly learning and evolving;
+    - 💡 Naturally curious;
+    - 📚 I really enjoy reading;
+    - 🎮 I love playing video-games!
   </div>
 </div>
 
