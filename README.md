@@ -1,6 +1,5 @@
-# Olá, eu sou a Ana Carolina Capel!✨
-<br>
-# Hi, I'm Ana Carolina Capel!✨
+# Olá, eu sou a Ana Carolina Capel!✨ | Hi, I'm Ana Carolina Capel!✨
+
 <br>
 
 <p><img width="20" height="12" alt="Bisexual_Pride_Flag" src="https://github.com/user-attachments/assets/896c0d3c-25c2-4c81-9ccc-984357907871" /> Pode me chamar de <b>Carol</b></p> 
@@ -30,8 +29,6 @@
 
 ### 🛠️ Tecnologias que uso:
 
-<br>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -52,9 +49,10 @@
 </div>
 
 <br>
+
 <div>
   <div>
-### 🤓 Um pouco do meu universo:
+###🤓 Um pouco do meu universo:
 
 - 🐱 Tenho dois gatos incríveis;
 - 📺 Adoro assistir filmes, series e animes;
@@ -63,7 +61,7 @@
 - 📚 Gosto Muito de ler;
 - 🎮 Amo jogar! </div>
   <div>
-### 🤓 A little about my universe:
+###🤓 A little about me:
 - 🐱 I have two incredible cats;
 - 📺 I love watching movies, series, and anime;
 - 🌱 Constantly learning and evolving;
