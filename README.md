@@ -8,9 +8,10 @@
 </p>
 
  <div>
-   <a href="https://github.com/devemdobro">
+   <a href="https://github.com/AnaCCapel">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaCCapel&theme=nightowl&show_icons=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCCapel&layout=compact&langs_count=6&theme=nightowl"/>
+   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?AnaCCapel=vn7n24fzkq&theme=nightowl"/>
 </div>
 
 ### 🛠️ Tecnologias que uso:
