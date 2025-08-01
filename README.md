@@ -61,17 +61,17 @@
   
   <h3 align="center" width="100%">🤓 A little about me:</h3>
     <ul align="center" width="100%">
-     <li>🐱 I have two amazing cats;</li>
-     <li>📺 I love watching movies, series, and anime;</li>
-     <li>🌱 Constantly learning and evolving;</li>
-     <li>💡 Naturally curious;</li>
-     <li>📚 I really enjoy reading;</li>
-     <li>🎮 I love playing video-games!</li>
+     <li align="center">🐱 I have two amazing cats;</li>
+     <li align="center">📺 I love watching movies, series, and anime;</li>
+     <li align="center">🌱 Constantly learning and evolving;</li>
+     <li align="center">💡 Naturally curious;</li>
+     <li align="center">📚 I really enjoy reading;</li>
+     <li align="center">🎮 I love playing video-games!</li>
     </ul>
 
  
 <div align="center" width="100%">
- ![Adobe Express - gif](https://github.com/user-attachments/assets/4f0264c0-9538-4e21-b6c6-e6dc863f9785)
+ <img src="![Adobe Express - gif](https://github.com/user-attachments/assets/4f0264c0-9538-4e21-b6c6-e6dc863f9785)"/>
  <p align="center">Feito com 💜 por Ana C. Capel</p>
 </div>
 
