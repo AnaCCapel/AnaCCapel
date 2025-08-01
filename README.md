@@ -1,7 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=speech&height=80&color=AA77FF&text=Olá,%20eu%20sou%20a%20Ana%20Carolina%20Capel!✨%20|%20Hi,%20I'm%20Ana%20Carolina%20Capel!✨&section=header&fontSize=24&textBg=false&animation=twinkling&fontAlign=51&fontAlignY=44&reversal=true&fontColor=FFFFFF"/>
-
-<br>
-
 <p><img width="20" height="12" alt="Bisexual_Pride_Flag" src="https://github.com/user-attachments/assets/896c0d3c-25c2-4c81-9ccc-984357907871" /> Pode me chamar de <b>Carol</b> | You Can Call me <b>Carol</b></p>  </p>
 
 <br>
@@ -11,14 +8,13 @@
    
  <br>
     
-  <img src="![visits](https://visit-counter.vercel.app/counter.png?page=AnaCCapel&s=40&c=9400ff&bg=00000000&no=4&ff=digi&tb=&ta=)"/>
-     
+  <img src="https://visit-counter.vercel.app/counter.png?page=AnaCCapel&s=40&c=9400ff&bg=00000000&no=4&ff=digi&tb=&ta="/>     
     
 </div>
 
 <br>
 
-<p>
+<p align="center" width="100%" >
     👩‍💻 Desenvolvedora Front-End | 💻 Apaixonada por Tecnologia | 🌈 Adoro misturar código com criatividade.
     <br>
     👩‍💻 Front-End Developer | 💻 Passionate about Technology | 🌈 I love mixing code with creativity.
@@ -56,14 +52,15 @@
 <br>
 
 <div align="center" width="100%">
- ### 🤓 Um pouco do meu universo:
+ ###  🤓 Um pouco do meu universo:
 - 🐱 Tenho dois gatos incríveis;
 - 📺 Adoro assistir filmes, series e animes;
 - 🌱 Em constante aprendizado e evolução;
 - 💡 Curiosa por natureza; 
 - 📚 Gosto Muito de ler;
 - 🎮 Amo jogar! 
-### 🤓 A little about me:
+  <br>
+###  🤓 A little about me:
 - 🐱 I have two incredible cats;
 - 📺 I love watching movies, series, and anime;
 - 🌱 Constantly learning and evolving;
@@ -72,4 +69,8 @@
 - 🎮 I love playing video-games!
 </div>
 
+<div align="center" width="100%>
+ ![Free Neon Cat Animated Birthday Video Gif Instagram](https://github.com/user-attachments/assets/185d613f-ae61-4dac-9ccb-165ed73f117c)
  <p align="center">Feito com 💜 por Ana C. Capel</p>
+</div>
+
