@@ -19,7 +19,7 @@
 
 <br>
 
- <div align="center">
+ <div align="center" style="display: inline_block">
    <a href="https://github.com/AnaCCapel">
    <img  width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaCCapel&theme=nightowl&show_icons=true"/>
    <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCCapel&layout=compact&langs_count=6&theme=nightowl"/>  
@@ -48,33 +48,30 @@
 
 <br>
 
-<div align="center" width="100%">
+<div align="center" width="100%">  
+  <h3>🤓 Um pouco do meu universo:</h3>
+    <ul>
+      <li>🐱 Tenho dois gatos incríveis;</li>
+      <li>📺 Adoro assistir filmes, series e animes;</li>
+      <li>🌱 Em constante aprendizado e evolução;</li>
+      <li>💡 Curiosa por natureza;</li>
+      <li>📚 Gosto Muito de ler;</li>
+      <li>🎮 Amo jogar!</li>
+   </ul>
   
-<div>
-<h3>🤓 Um pouco do meu universo:</h3> 
-  - 🐱 Tenho dois gatos incríveis;
-  - 📺 Adoro assistir filmes, series e animes;
-  - 🌱 Em constante aprendizado e evolução;
-  - 💡 Curiosa por natureza;
-  - 📚 Gosto Muito de ler;
-  - 🎮 Amo jogar!
-  </div>
-  
-  <br>
-  
-  <div>
- <h3>🤓 A little about me:</h3>
-    - 🐱 I have two incredible cats;
-    - 📺 I love watching movies, series, and anime;
-    - 🌱 Constantly learning and evolving;
-    - 💡 Naturally curious;
-    - 📚 I really enjoy reading;
-    - 🎮 I love playing video-games!
-  </div>
+  <h3>🤓 A little about me:</h3>
+    <ul>
+     <li>🐱 I have two amazing cats;</li>
+     <li>📺 I love watching movies, series, and anime;</li>
+     <li>🌱 Constantly learning and evolving;</li>
+     <li>💡 Naturally curious;</li>
+     <li>📚 I really enjoy reading;</li>
+     <li>🎮 I love playing video-games!</li>
+    </ul>
 </div>
-
+ 
 <div align="center" width="100%">
- <img src="https://github.com/user-attachments/assets/4be60901-da89-4034-b086-eca00c0b6581"/>
+ <img src="![Free Neon Cat Animated Birthday Video Gif Instagram](https://github.com/user-attachments/assets/95886916-1591-4606-8195-6ae49e36f960)"/>
  <p align="center">Feito com 💜 por Ana C. Capel</p>
 </div>
 
