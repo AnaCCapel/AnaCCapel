@@ -6,7 +6,7 @@
    
  <br>
     
-  <img src="https://visit-counter.vercel.app/counter.png?page=AnaCCapel&s=40&c=9400ff&bg=00000000&no=4&ff=digi&tb=Visits%3A+&ta="/>
+  <img src="https://visit-counter.vercel.app/counter.png?page=AnaCCapel&s=40&c=9400ff&bg=00000000&no=4&ff=digi&tb=Profile+Visits%3A+&ta="/>
   </div>
 
 <br>
@@ -41,7 +41,7 @@
 <div align="center" width="100%">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/dicasdacapel?igsh=MXVqZTk0OHdtMGlsMA%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/UpXnzAxQ"_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/8kyk8WQn" target="_blank ><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href = "mailto:ana.capelcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
