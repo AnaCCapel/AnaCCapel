@@ -18,7 +18,7 @@
 
 <br>
 
- <div align="center" style="display: inline_block">
+ <div style="display: inline_block">
    <a href="https://github.com/AnaCCapel">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaCCapel&theme=nightowl&show_icons=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCCapel&layout=compact&langs_count=6&theme=nightowl"/>  
@@ -70,7 +70,7 @@
 </div>
 
 <div align="center" width="100%>
- ![Free Neon Cat Animated Birthday Video Gif Instagram](https://github.com/user-attachments/assets/185d613f-ae61-4dac-9ccb-165ed73f117c)
+ 
  <p align="center">Feito com 💜 por Ana C. Capel</p>
 </div>
 
