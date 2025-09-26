@@ -20,6 +20,7 @@
  <div align="center">
    <a href="https://github.com/AnaCCapel">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaCCapel&theme=nightowl&show_icons=true"/>
+     <br>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCCapel&layout=compact&langs_count=6&theme=nightowl"/>  
 </div>
 
